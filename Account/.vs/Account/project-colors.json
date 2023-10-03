@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad1a16d3-bbac-43b5-ac6a-376a56a0cac3": {
+      "ProjectGuid": "ad1a16d3-bbac-43b5-ac6a-376a56a0cac3",
+      "DisplayName": "Account",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
